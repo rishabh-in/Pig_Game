@@ -1,4 +1,4 @@
-# Pig_Game
+# Pig Game
 Pig game in javascript is simple dice roll based game. The whole project is in HTML, CSS, and JavaScript. This game is fully in javascript and uses some images. You can simply use any kind of code editor for this project. This game is in 2D format.
 
 # About the game
