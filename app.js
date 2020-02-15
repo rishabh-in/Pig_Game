@@ -59,7 +59,7 @@ document.querySelector(".btn-hold").addEventListener("click",function(){
         document.querySelector("#current-"+activePlayer).textContent=roundScore;
 
         // Check winner
-        if(score[activePlayer]>=20){
+        if(score[activePlayer]>=100){
             document.querySelector("#name-"+activePlayer).textContent="Winner!";
             document.querySelector(".dice").style.display="none";
             document.querySelector(".player-"+activePlayer+"-panel").classList.remove("active");
